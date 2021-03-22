@@ -10,3 +10,5 @@ As a full-stack software engineer who is always passionate about learning more a
 
 <br />
 📩 &nbsp; Feel free to contact me. I am always there for you...
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=carlodo&show_icons=true&theme=radical)
